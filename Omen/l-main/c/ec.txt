@@ -1,0 +1,24 @@
+create instance
+ubuntu
+
+security open link
+add traffic to http and https
+
+connect -> connect
+
+switch to linux use = sudo su 
+apt-get install apache2
+
+systemctl start apache2
+systemctl status apache2
+
+wget link
+ls
+apt-get install unzip
+unzip filename
+
+ls
+cd extracted file name
+mv * /var/www/html/
+cd /var/www/html/
+ls

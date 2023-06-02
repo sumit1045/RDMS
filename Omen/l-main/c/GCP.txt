@@ -1,0 +1,22 @@
+New Project Creation
+API and services
+Enable APIs
+search - App engine admin api
+enable
+
+Console-
+gcloud projects list
+gcloud config set project 'name'
+gcloud app create
+git clone 'link'
+
+cd 'filename'/
+cd appengine/
+
+Check runtime using cat app.yaml
+
+gcloud app deploy app.yaml (link)
+gcloud app describe
+
+App Engine -> Settings -> Disable
+OR IAM -> Manage resources

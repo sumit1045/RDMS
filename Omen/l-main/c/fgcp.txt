@@ -1,0 +1,24 @@
+new project created
+select project
+
+api and services
+enable
+app engine admin api
+enable
+
+activate cloud shell
+
+gcloud config set project "project id"
+cd/
+
+google - google cloud engine github
+search - python-doc-sample copy link
+
+git clone "link"
+ls
+cd home
+cd python /appengine/standard_python3/helloworld/
+ls
+python main.py
+
+gcloud app deploy app.yaml
